@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "RT58ZWU8SQ.FG.CartaFacile",
+        "paths": [ "/cartafacile-link/import/*" ]
+      }
+    ]
+  }
+}
