@@ -4,7 +4,10 @@
     "details": [
       {
         "appID": "RT58ZWU8SQ.FG.CartaFacile",
-        "paths": [ "/cartafacile-link/import/*" ]
+        "paths": [
+          "/cartafacile-link/import/*",
+          "/cartafacile-link/confirm*"
+        ]
       }
     ]
   }
